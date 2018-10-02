@@ -1,0 +1,10 @@
+@base:#0000;
+
+body{
+ width:100px;
+color:@base;
+h2{
+	width:200px;
+color:@base;
+}
+}
